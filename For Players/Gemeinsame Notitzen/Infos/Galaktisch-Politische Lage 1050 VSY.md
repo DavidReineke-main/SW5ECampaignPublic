@@ -4,8 +4,6 @@ tags:
 published: true
 Bananenbrot: Yes
 ---
-
-
 ## **1. Galaktische Republik**
 
 - Alteingesessene galaxisweite Regierung.
